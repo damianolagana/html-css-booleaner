@@ -13,3 +13,26 @@ header{
     margin-left: 100px;
 }
 
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Thebooleaners{
+color: #4ea0ff;
+font-weight: bold;
+}
+
+.greytext{
+    color: grey;
+    font-weight: bold;
+}
+
+#data{
+    font-size: smaller;
+    color: grey;
+    font-weight: bold;
+}
+
+.description{
+    font-size: x-small;
+}
