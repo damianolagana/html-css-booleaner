@@ -44,3 +44,23 @@ thead{
 .bluraw{
     background-color: #b1e5f2;
 }
+
+#imgfoot1{
+    height: 208px;
+    width: 270px;
+    background-image: url(../img/monitor.jpg);
+    font-size: large;
+    color: white;
+}
+
+#imgfoot2{
+    height: 208px;
+    width: 270px;
+    background-image: url(../img/graph.jpg);
+    font-size: large;
+    color: white;
+}
+
+.Loremimg{
+    margin-left: 20px;
+}
