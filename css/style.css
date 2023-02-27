@@ -36,3 +36,11 @@ font-weight: bold;
 .description{
     font-size: x-small;
 }
+
+thead{
+    background-color: #20a9e5;
+}
+
+.bluraw{
+    background-color: #b1e5f2;
+}
