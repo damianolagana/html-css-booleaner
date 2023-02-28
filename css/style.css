@@ -17,6 +17,7 @@ h1{
     font-family: 'Times New Roman', Times, serif;
     font-size: xx-large;
     padding-right: 350px;
+    margin-bottom: 0px;
 }
 
 #Thebooleaners{
@@ -27,6 +28,7 @@ font-weight: bold;
 .greytext{
     color: grey;
     font-weight: bold;
+    margin: 0px;
 }
 
 #data{
@@ -39,12 +41,31 @@ font-weight: bold;
     font-size: x-small;
 }
 
+.list{
+    padding-left: 0px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
 thead{
     background-color: #20a9e5;
+    color: white;
+    text-align: left;
+}
+
+.thodd{
+    width: 25%;
 }
 
 .bluraw{
     background-color: #b1e5f2;
+}
+
+footer h3{
+    font-size: small;
+    color: gray;
 }
 
 #imgfoot1{
